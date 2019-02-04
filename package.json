@@ -1,0 +1,25 @@
+{
+  "name": "liribot",
+  "version": "0.0.1",
+  "description": "This is a school assignment for week 10. ",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasmahase/LiriBot.git"
+  },
+  "keywords": [
+    "Liri_Bot",
+    "OMDB",
+    "Spotify",
+    "Bands_In_Town"
+  ],
+  "author": "Nicholas Mahase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasmahase/LiriBot/issues"
+  },
+  "homepage": "https://github.com/nicholasmahase/LiriBot#readme"
+}
